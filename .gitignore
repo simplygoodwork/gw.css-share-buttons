@@ -8,3 +8,4 @@
 
 # Ignore generated CSS
 /static/css/**/*.css
+/static/css/**/*.css.map
