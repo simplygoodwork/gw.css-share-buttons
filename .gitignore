@@ -7,5 +7,5 @@
 .sass-cache
 
 # Ignore generated CSS
-/static/css/**/*.css
-/static/css/**/*.css.map
+# /css/**/*.css
+/css/**/*.css.map

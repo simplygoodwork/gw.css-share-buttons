@@ -67,7 +67,7 @@ $swinder-borderRadius:3px;
         }
 
         span {
-            background-image:url("../images/icons/share-email.svg");
+            background-image:url("../images/share-email.svg");
             background-position-y:1px;
             padding-left:19px;
         }
@@ -89,7 +89,7 @@ $swinder-borderRadius:3px;
         }
 
         span {
-            background-image:url("../images/icons/share-facebook.svg");
+            background-image:url("../images/share-facebook.svg");
             padding-left:18px;
         }
     }
@@ -109,7 +109,7 @@ $swinder-borderRadius:3px;
             @include swinder-linearGradient(#E0E0E0, #DDDDDD);
         }
         span {
-            background-image:url("../images/icons/share-twitter.svg");
+            background-image:url("../images/share-twitter.svg");
             background-position-y:1px;
             padding-left:18px;
         }
@@ -128,7 +128,7 @@ $swinder-borderRadius:3px;
             border-color:#BBB;
         }
         span {
-            background-image: url("../images/icons/share-gplus.svg");
+            background-image: url("../images/share-gplus.svg");
             padding-left:22px;
         }
     }
