@@ -1,5 +1,7 @@
 # CSS share buttons
 
+![CSS share buttons example](http://dizk8d7r829vt.cloudfront.net/Miscellaneous/gw.css-share-buttons.png)
+
 ## Usage
 
 Copy the files from the `/images` and either `/sass` or `/css` directories to your project, follow the basic HTML structure below, and you’re off.
