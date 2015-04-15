@@ -2,6 +2,15 @@
 
 ![CSS share buttons example](http://www.philswan.co.uk/share/share-buttons.png)
 
+## Why use these?
+
+* Don’t rely on any JavaScript
+* They look just like the official versions
+* They’re retina friendly
+* Speed
+* They line up neatly!
+
+
 ## Usage
 
 Copy the files from the `/images` and either `/sass` or `/css` directories to your project, follow the basic HTML structure below, and you’re off.
