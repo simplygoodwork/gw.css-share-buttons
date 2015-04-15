@@ -1,6 +1,6 @@
 # CSS share buttons
 
-![CSS share buttons example](http://dizk8d7r829vt.cloudfront.net/Miscellaneous/gw.css-share-buttons.png)
+![CSS share buttons example](http://www.philswan.co.uk/share/share-buttons.png)
 
 ## Usage
 
