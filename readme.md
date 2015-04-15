@@ -4,7 +4,7 @@
 
 ## Why use these?
 
-* Don’t rely on any JavaScript
+* They don’t rely on any JavaScript
 * They look just like the official versions
 * They’re retina friendly
 * Speed
