@@ -1,6 +1,6 @@
 # CSS share buttons
 
-![CSS share buttons example](http://www.philswan.co.uk/share/share-buttons.png)
+![CSS share buttons example](http://www.philswan.co.uk/share/share-buttons.gif)
 
 ## Why use these?
 
