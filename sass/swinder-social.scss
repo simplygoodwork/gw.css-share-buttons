@@ -118,9 +118,9 @@ $swinder-borderRadius:3px;
 
     .swinder-social__item--google {
         background-color:#FFF;
+        border-color:#CCC;
         color:#DB493E;
         font-size:11px;
-        border-color:#CCC;
 
         &:hover,
         &:focus {
@@ -136,36 +136,33 @@ $swinder-borderRadius:3px;
     }
 
     .swinder-social__item--linkedin {
-        // @include swinder-linearGradient(#496AB6, #3B599F);
-        background-color: #0079B3;
-        // padding: 0px;
+        background-color:#0079B3;
         border-color:#0079B3;
         color:#FFF;
         text-shadow:0 -1px 0 rgba(0,0,0,0.2);
 
         &:hover,
         &:focus {
+            background-color:#046B9F;
             border-color:#046B9F;
-            background-color: #046B9F;
             span {
-                background-color: #0079B3;
+                background-color:#0079B3;
             }
         }
         &:active {
             border-color:#066293;
-            background-color: #066293;
+            background-color:#066293;
         }
 
         span {
             background-image:url("../images/share-linkedin.svg");
             background-position-x:1px;
             background-position-y:0;
-            padding: 3px;
-            padding-right: 16px;
-            margin-left: -3px;
-            border-right: 1px solid #056293;
-            margin-right: 3px;
-            // background-color: red;
+            border-right:1px solid #056293;
+            padding:3px;
+            padding-right:16px;
+            margin-left:-3px;
+            margin-right:3px;
         }
     }
 
