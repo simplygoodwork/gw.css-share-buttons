@@ -21,6 +21,7 @@ Copy the files from the `/images` and either `/sass` or `/css` directories to yo
     <a href="" class="swinder-social__item swinder-social__item--facebook"><span></span>Share</a>
     <a href="" class="swinder-social__item swinder-social__item--twitter"><span></span>Tweet</a>
     <a href="" class="swinder-social__item swinder-social__item--google"><span></span><span class="swinder-social__hide">Google +1</span></a>
+    <a href="" class="swinder-social__item swinder-social__item--linkedin"><span></span>Share</a>
 </div>
 ```
 
