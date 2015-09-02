@@ -207,7 +207,7 @@
 .swinder-social .swinder-social__item--google {
   background-color: #FFF;
   border-color: #CCC;
-  color: #DB493E;
+  color: #252525;
   font-size: 11px;
 }
 .swinder-social .swinder-social__item--google:hover, .swinder-social .swinder-social__item--google:focus {
@@ -219,6 +219,8 @@
 .swinder-social .swinder-social__item--google span {
   background-image: url("../images/share-gplus.svg");
   padding-left: 22px;
+  background-position-x: 0;
+  background-position-y: -1px;
 }
 .swinder-social .swinder-social__item--linkedin {
   background-color: #0079B3;
@@ -247,3 +249,5 @@
   margin-left: -3px;
   margin-right: 3px;
 }
+
+/*# sourceMappingURL=swinder-social.css.map */

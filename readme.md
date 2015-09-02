@@ -5,10 +5,9 @@
 ## Why use these?
 
 * They don’t rely on any JavaScript
-* They look just like the official versions
+* They look like the official versions, but line up!
 * They’re retina friendly
 * Speed
-* They line up neatly!
 
 
 ## Usage
